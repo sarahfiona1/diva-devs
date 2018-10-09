@@ -1,4 +1,4 @@
 DIVADEVS
 ===================
 
-The best website ever
+We know what we're doing
